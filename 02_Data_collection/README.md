@@ -3,12 +3,11 @@
 
 ## Socioeconomic and Demographic Data: 
 Income levels, education, age distribution, and population density
-![HDX : Sudan - Human Development Indicators ](https://data.humdata.org/dataset/hdro-data-for-sudan)
+[HDX : Sudan - Human Development Indicators ](https://data.humdata.org/dataset/hdro-data-for-sudan)
 
 1. Human Development Indicators for Sudan
-    data: ./demographics/hdro_indicators_sdn.csv
-    source: United Nation Development Program
-    source link: https://data.humdata.org/dataset/hdro-data-for-sudan
+    data: [hdro_indicators_sdn.csv](./demographics/hdro_indicators_sdn.csv)
+    source: [United Nation Development Program](https://data.humdata.org/dataset/hdro-data-for-sudan)
     ![qucik link](./demographics/screenshots/Screenshot%202025-01-03%20at%2017-18-12%20Sudan%20-%20Human%20Development%20Indicators%20-%20Humanitarian%20Data%20Exchange.png)
 
 2. Aggregated Human Development Indicators for SudanCSV
