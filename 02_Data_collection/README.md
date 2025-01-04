@@ -14,20 +14,12 @@ Income levels, education, age distribution, and population density
     data: [hdro_indicators_aggregates_sdn.csv](./demographics/hdro_indicators_aggregates_sdn.csv)  
     source: [United Nation Development Program](https://data.humdata.org/dataset/hdro-data-for-sudan)   
 
-<<<<<<< HEAD
 3. Sudan - Economic, Social, Environmental, Health, Education, Development and Energy - World Bank 
     data: (./demographics/indicators_sdn.csv) 
     source: world bank
     source link: https://data.humdata.org/dataset/world-bank-combined-indicators-for-sudan
     ![quick charts](./demographics/screenshots/Screenshot%202025-01-03%20at%2017-11-15%20Sudan%20-%20Economic%20Social%20Environmental%20Health%20Education%20Development%20and%20Energy%20-%20Humanitarian%20Data%20Exchange.png)
     
-=======
-3. Sudan - Economic, Social, Environmental, Health, Education, Development and Energy - World Bank   
-    world-bank-combined-indicators-for-sudan  
-    data: [indicators_sdn.csv](./demographics/indicators_sdn.csv)  
-    source: [world bank](https://data.humdata.org/dataset/world-bank-combined-indicators-for-sudan)  
-    ![quick charts](./demographics/screenshots/Screenshot%202025-01-03%20at%2017-11-15%20Sudan%20-%20Economic%20Social%20Environmental%20Health%20Education%20Development%20and%20Energy%20-%20Humanitarian%20Data%20Exchange.png)   
->>>>>>> dbc48c7b71afa268279898c07c892c6e686119cf
 
 4. Sudan Gener   
     world-bank-gender-indicators-for-sudan    
@@ -43,7 +35,6 @@ Income levels, education, age distribution, and population density
     data (full): [WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS.xlsx](./demographics/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS.xlsx)  
     data (compact): [WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx](./demographics/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx)  
 
-<<<<<<< HEAD
 7. Sudan - Education Indicators 
     data : SDG 4 Global and Thematic data (./demographics/sdg_data_sdn.csv)
     data : SDG 4 Global and Thematic data (./demographics/sdg_indicatorlist_sdn.csv)
@@ -53,14 +44,6 @@ Income levels, education, age distribution, and population density
     ![quick chart](./demographics/screenshots/Screenshot%202025-01-03%20at%2018-01-41%20Sudan%20-%20Education%20Indicators%20-%20Humanitarian%20Data%20Exchange.png)
     Source : Our World 
     Source Link : https://ourworldindata.org/global-education#key-insights 
-=======
-7. Sudan - Education Indicators  
-    unesco-data-for-sudan  
-    data : [SDG 4 Global and Thematic data](./demographics/sdg_data_sdn.csv)  
-    data : [SDG 4 Global and Thematic indicator data](./demographics/sdg_indicatorlist_sdn.csv)  
-    source: [UNESCO](https://data.humdata.org/dataset/unesco-data-for-sudan)  
-    ![quick chart](./demographics/screenshots/Screenshot%202025-01-03%20at%2018-01-41%20Sudan%20-%20Education%20Indicators%20-%20Humanitarian%20Data%20Exchange.png)  
->>>>>>> dbc48c7b71afa268279898c07c892c6e686119cf
 
 ## Geographic  
 1. Sudan Health Facilities  
