@@ -35,15 +35,15 @@ Income levels, education, age distribution, and population density
     data (full): [WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS.xlsx](./demographics/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS.xlsx)  
     data (compact): [WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx](./demographics/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx)  
 
-7. Sudan - Education Indicators 
-    data : SDG 4 Global and Thematic data (./demographics/sdg_data_sdn.csv)
-    data : SDG 4 Global and Thematic data (./demographics/sdg_indicatorlist_sdn.csv)
-    Data : primary-secondary-enrollment-completion-rates
+7. Sudan - Education Indicators   
+    data : SDG 4 Global and Thematic data (./demographics/sdg_data_sdn.csv)  
+    data : SDG 4 Global and Thematic data (./demographics/sdg_indicatorlist_sdn.csv)  
+    Data : primary-secondary-enrollment-completion-rates  
     source: UNESCO 
     source link: https://data.humdata.org/dataset/unesco-data-for-sudan
-    ![quick chart](./demographics/screenshots/Screenshot%202025-01-03%20at%2018-01-41%20Sudan%20-%20Education%20Indicators%20-%20Humanitarian%20Data%20Exchange.png)
-    Source : Our World 
-    Source Link : https://ourworldindata.org/global-education#key-insights 
+    ![quick chart](./demographics/screenshots/Screenshot%202025-01-03%20at%2018-01-41%20Sudan%20-%20Education%20Indicators%20-%20Humanitarian%20Data%20Exchange.png)  
+    Source : Our World  
+    Source Link : https://ourworldindata.org/global-education#key-insights  
 
 ## Geographic  
 1. Sudan Health Facilities  
