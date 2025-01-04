@@ -50,5 +50,48 @@ Income levels, education, age distribution, and population density
     data -points: [hotosm_sdn_health_facilities_points_shp.zip](./geographic/hotosm_sdn_health_facilities_points_shp.zip)  
     data -polygons: [hotosm_sdn_health_facilities_polygons_shp.zip](hotosm_sdn_health_facilities_polygons_shp.zip)   
     source: [Humanitarian OpenStreetMap Team - open street map - ESRI Shapefile](https://data.humdata.org/dataset/hotosm_sdn_health_facilities)  
-    ![quick chart](./geographic/screenshot/Screenshot%202025-01-03%20at%2017-36-44%20Sudan%20Health%20Facilities%20(OpenStreetMap%20Export)%20-%20Humanitarian%20Data%20Exchange.png)  
+    ![quick chart](./geographic/screenshot/Screenshot%202025-01-03%20at%2017-36-44%20Sudan%20Health%20Facilities%20(OpenStreetMap%20Export)%20-%20Humanitarian%20Data%20Exchange.png)
+
+## Healthcare
+## Sources for Healthcare Data in Sudan
+
+This document provides an overview of the data sources referenced for compiling the healthcare infrastructure and personnel distribution in Sudan.
+
+### Key Data Sources
+
+1. WHO Sudan Country Profile
+   - Website: [WHO Sudan Country Page](https://data.who.int/countries/729)
+   - Provides general healthcare statistics for Sudan, including health expenditure and personnel ratios.
+
+2. World Bank Public Expenditure Reviews (PER)
+   - Source: World Bank Reports on Healthcare Spending
+   - Insights into government health expenditure, fiscal allocations, and workforce financing.
+
+3. Sudan National Health Policy 2017-2030
+   - Document hosted on: [WHO National Planning Cycles](https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/SDN_Sudan_National-Health%20Policy_2017-2030.pdf)
+   - Contains strategic health workforce planning, hospital distribution, and geographic healthcare disparities.
+
+4. Statista
+   - Website: [Statista Health Metrics for Sudan](https://www.statista.com/outlook/co/health-indicators/sudan)
+   - Offers up-to-date statistics on healthcare personnel density, hospital beds, and smoking rates.
+
+5. AP News on Cholera Cases (2024)
+   - Article: [Fast-rising cholera cases across war-torn Sudan](https://apnews.com/article/b204925d3398e08aff6761b21d0937f1)
+   - Reports on current public health crises affecting healthcare infrastructure.
+
+6. Doctors Without Borders
+   - Article: [Health system on the verge of collapse in Khartoum](https://www.doctorswithoutborders.org/latest/sudan-health-system-verge-collapse-khartoum)
+   - Information on operational healthcare facilities and conflict impact.
+
+7. Regional WHO Public Health Crisis Updates
+   - Statement: [WHO Regional Director on Health Crisis in Sudan](https://www.emro.who.int/media/news/regional-director-statement-on-the-health-crisis-in-sudan.html)
+   - Context on conflict-related healthcare system breakdown and infrastructure damage.
+
+8. Reuters Health Reports on Sudan
+   - Article: [Mass starvation and healthcare collapse risk](https://www.reuters.com/world/africa/very-real-risk-mass-starvation-some-regions-sudan-who-2024-06-12)
+   - Current impact of political and economic instability on Sudan’s healthcare workforce.
+
+9. Macrotrends
+   - Website: [Sudan Healthcare Spending Trends](https://www.macrotrends.net/global-metrics/countries/SDN/sudan/healthcare-spending)
+   - Historical and current healthcare expenditure data.
 
